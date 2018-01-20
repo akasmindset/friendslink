@@ -1,0 +1,74 @@
+body{
+	padding-left: 0px;
+ padding: 
+    background-color :lightblue;
+}
+.friendRequest{
+  color: red;
+  text-decoration: none;
+  }
+
+#logout a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+    text-color:gray;
+    text-decoration: 
+    text-align:left;
+    font-weight:40px;
+    font-style: italic;
+}
+
+#banner {
+          width: 100%;
+          height:90px;
+          background-color:MidnightBlue ;
+          color: white;
+          
+      }
+      #login{
+      	float:right;
+      	width: 40%;
+      	height: 90px;
+      	
+      }
+#bodyWrapper{
+  width: 100%;
+}
+
+#content{
+  width: 100%;
+}
+
+#registerForm{
+  width: 45%;
+  float: right;
+  color: darkblue;
+}
+
+#advert{
+  width: 50%;
+  float: left;
+  color: darkblue;
+  background: url(../img/flink_img.png);
+  width:250px;
+  height:340px;
+
+  
+}
+#registerForm input[type=text], #registerForm input[type=password]{
+  height: 25px;
+  border-radius: 5px;
+  -moz-border-radius:
+  -webkit-border-radius:5px;
+  _khtml-border-radius:5px;
+  -o-border-radius:5px;
+  -ms-border-radius:5px;
+}
+#footer{
+  width:100%;
+  height:60px;
+  background-color:MidnightBlue;
+}
